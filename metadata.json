@@ -1,0 +1,7 @@
+{
+  "name": "HelpHive",
+  "description": "A social discovery platform for hidden gems across India. Users can post, rate, and comment on unique, lesser-known spots like sunrise points, waterfalls, underrated hotels, restaurants, and other hidden locations in India.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
